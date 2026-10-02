@@ -104,7 +104,7 @@ I built **DI Vendor Hub** as a simple example of what "invisible operations" cou
 For the prototype, I used illustrative rules: low-cost/low-risk requests can be automatically approved, while higher spend, sensitive data, external AI, longer contractual commitments or portfolio-company deployment bring in the relevant teams. The exact thresholds and rules would, of course, need to be agreed with Finance, Compliance and Legal.
 
 **[Open DI Vendor Hub](https://di-vendor-hub.lovable.app/)**  
-**[View source code](https://github.com/anafsramos/di-vendor-hub)**
+**[View Source Code](https://github.com/anafsramos/di-vendor-hub)**
 
 This is a workflow prototype rather than a production application. It currently uses local/sample data and does not include shared storage, role-based access or integrations with Deerfield systems. A production version would require the appropriate engineering and security review, but the prototype is meant to show the operating logic and user experience.
 
